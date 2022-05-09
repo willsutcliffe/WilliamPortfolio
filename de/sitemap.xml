@@ -2,200 +2,200 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/de/</loc>
+    <loc>https://willsutcliffe.github.io/WilliamPortfolio/de/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/ru/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.com/de/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/de/"
                 />
   </url><url>
-    <loc>https://example.com/de/post/</loc>
+    <loc>https://willsutcliffe.github.io/WilliamPortfolio/de/post/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/post/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/ru/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.com/de/post/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/de/post/"
                 />
   </url><url>
-    <loc>https://example.com/de/post/chapter-1/</loc>
+    <loc>https://willsutcliffe.github.io/WilliamPortfolio/de/post/chapter-1/</loc>
     <lastmod>2022-01-01T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/chapter-1/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/post/chapter-1/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/ru/post/chapter-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.com/de/post/chapter-1/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/de/post/chapter-1/"
                 />
   </url><url>
-    <loc>https://example.com/de/tags/scene/</loc>
+    <loc>https://willsutcliffe.github.io/WilliamPortfolio/de/tags/scene/</loc>
     <lastmod>2022-01-01T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/scene/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/tags/scene/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/tags/scene/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/ru/tags/scene/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.com/de/tags/scene/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/de/tags/scene/"
                 />
   </url><url>
-    <loc>https://example.com/de/tags/</loc>
+    <loc>https://willsutcliffe.github.io/WilliamPortfolio/de/tags/</loc>
     <lastmod>2022-01-01T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/tags/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.com/de/tags/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/de/tags/"
                 />
   </url><url>
-    <loc>https://example.com/de/post/chapter-2/</loc>
+    <loc>https://willsutcliffe.github.io/WilliamPortfolio/de/post/chapter-2/</loc>
     <lastmod>2017-04-10T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/post/chapter-2/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/post/chapter-2/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/ru/post/chapter-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.com/de/post/chapter-2/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/de/post/chapter-2/"
                 />
   </url><url>
-    <loc>https://example.com/de/about/</loc>
+    <loc>https://willsutcliffe.github.io/WilliamPortfolio/de/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/about/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/about/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/ru/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.com/de/about/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/de/about/"
                 />
   </url><url>
-    <loc>https://example.com/de/categories/</loc>
+    <loc>https://willsutcliffe.github.io/WilliamPortfolio/de/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/categories/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.com/de/categories/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/de/categories/"
                 />
   </url><url>
-    <loc>https://example.com/de/contact/</loc>
+    <loc>https://willsutcliffe.github.io/WilliamPortfolio/de/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/contact/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/contact/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/ru/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.com/de/contact/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/de/contact/"
                 />
   </url><url>
-    <loc>https://example.com/de/cv/</loc>
+    <loc>https://willsutcliffe.github.io/WilliamPortfolio/de/cv/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/cv/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/cv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/cv/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/ru/cv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.com/de/cv/"
+                href="https://willsutcliffe.github.io/WilliamPortfolio/de/cv/"
                 />
   </url>
 </urlset>
