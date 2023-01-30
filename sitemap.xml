@@ -1,25 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://willsutcliffe.github.io/WilliamPortfolio/en/sitemap.xml</loc>
-    
-      <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://willsutcliffe.github.io/WilliamPortfolio/de/sitemap.xml</loc>
-    
-      <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://willsutcliffe.github.io/WilliamPortfolio/ru/sitemap.xml</loc>
-    
-      <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-3/</loc>
+    <lastmod>2023-01-30T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-2/</loc>
+    <lastmod>2023-01-30T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://willsutcliffe.github.io/WilliamPortfolio/</loc>
+    <lastmod>2023-01-30T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-4/</loc>
+    <lastmod>2023-01-30T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://willsutcliffe.github.io/WilliamPortfolio/post/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://willsutcliffe.github.io/WilliamPortfolio/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://willsutcliffe.github.io/WilliamPortfolio/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://willsutcliffe.github.io/WilliamPortfolio/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://willsutcliffe.github.io/WilliamPortfolio/cv/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-1/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://willsutcliffe.github.io/WilliamPortfolio/publications/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://willsutcliffe.github.io/WilliamPortfolio/tags/scene/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://willsutcliffe.github.io/WilliamPortfolio/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://willsutcliffe.github.io/WilliamPortfolio/teaching/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
