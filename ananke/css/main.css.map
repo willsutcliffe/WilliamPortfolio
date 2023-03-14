@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/sutclw/exampleSite",
+	"sourceRoot": "/home/sutclw/Work/Preparation/Projects/Website/exampleSite",
 	"sources": [
 		"ananke/css/main.css"
 	],

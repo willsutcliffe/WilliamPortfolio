@@ -8,20 +8,29 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://willsutcliffe.github.io/WilliamPortfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Project 2: Cyrillic and Japanese character app</title>
+      <link>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-2/</link>
+      <pubDate>Wed, 01 Feb 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-2/</guid>
+      <description> Applied computer vision to learning foreign alphabets. Utilized datasets consisting of handdrawn Cyrillic and Japanese characters (Hirigan and Katakana) Trained CNN models with tensorflow 2 (keras) and pytorch. Experimented with data augmentation and regularisation tecniques to improve the performance. Developed a streamlit and an adroid version of an app for character recognition. Compared the model performance with the approach of using siamese networks. Also, trained character GANs. </description>
+    </item>
+    
+    <item>
+      <title>Project 1: Scraping rightmove properties to predict prices</title>
+      <link>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-1/</link>
+      <pubDate>Wed, 01 Feb 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-1/</guid>
+      <description>Project summary: Predicted London property prices using only scraped data with a xgb boosted regressor. Scraped data for around 12,000 properties from the website right move using beautiful soup. Cleaned the Data extracting many features from text using regular expressions. Determined the property GPS coordinates using google maps api. Feature engineered the distance to Picadilly Circus. Extracted text containing total property area using property plan images. Finally cross validated several regression models.</description>
+    </item>
+    
+    <item>
       <title>Algorithmic trading project</title>
       <link>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-3/</link>
       <pubDate>Mon, 30 Jan 2023 11:00:59 -0400</pubDate>
       
       <guid>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cyrillic and Japanese character app</title>
-      <link>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-2/</link>
-      <pubDate>Mon, 30 Jan 2023 11:00:59 -0400</pubDate>
-      
-      <guid>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-2/</guid>
       <description></description>
     </item>
     
@@ -32,15 +41,6 @@
       
       <guid>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-4/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Project 1: Scraping rightmove properties to predict prices</title>
-      <link>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-1/</guid>
-      <description> Extracted data from a right move using BeautifulSoup </description>
     </item>
     
   </channel>
