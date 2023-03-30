@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://willsutcliffe.github.io/WilliamPortfolio/</loc>
-    <lastmod>2023-02-01T11:00:59-04:00</lastmod>
+    <lastmod>2023-03-28T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-3/</loc>
+    <lastmod>2023-03-28T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -17,7 +22,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-3/</loc>
+    <loc>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-5/</loc>
+    <lastmod>2023-01-30T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-6/</loc>
     <lastmod>2023-01-30T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

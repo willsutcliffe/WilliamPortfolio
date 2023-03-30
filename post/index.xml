@@ -8,39 +8,57 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://willsutcliffe.github.io/WilliamPortfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project 2: Cyrillic and Japanese character app</title>
+      <title>Language translation app</title>
+      <link>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-3/</link>
+      <pubDate>Tue, 28 Mar 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-3/</guid>
+      <description>Trained transformer models from scratch to perform language translation to and from English to three other languages (German, French and Russian) Model acheived BLEU scores ranging from 15 to 20% and a BERT score of 80% Performed trainings using the cloud service provided by paperspace on A5000 and A100 GPUs Developed a streamlit app for multi-language translation with the trained transformer weights. Also, included a page of the app for using pre-trained hugging face models including other languages such as Spanish, Chinese and Japanese.</description>
+    </item>
+    
+    <item>
+      <title>Cyrillic and Japanese character app</title>
       <link>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-2/</link>
       <pubDate>Wed, 01 Feb 2023 11:00:59 -0400</pubDate>
       
       <guid>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-2/</guid>
-      <description> Applied computer vision to learning foreign alphabets. Utilized datasets consisting of handdrawn Cyrillic and Japanese characters (Hirigan and Katakana) Trained CNN models with tensorflow 2 (keras) and pytorch. Experimented with data augmentation and regularisation tecniques to improve the performance. Developed a streamlit and an adroid version of an app for character recognition. Compared the model performance with the approach of using siamese networks. Also, trained character GANs. </description>
+      <description>Developed an app for learning Cyrillic and Japanese characters using CNNs. Trained CNNs in pytorch with achieved validation accuracies of around 97-99%. Experimented with regularisation such as data augmentation and dropout to improve the performance. Implemented an app with streamlit allowing users to draw characters and see the prediction of the CNN. Explored the use of GANs and siamese networks applied to hand-drawn cyrillic letters. Below the accuracy of the training for cyrillic letters can be seen as a function of epochs: Please find the github repo for the trainings of CNNS: https://github.</description>
     </item>
     
     <item>
-      <title>Project 1: Scraping rightmove properties to predict prices</title>
+      <title>London property price prediction with data-scraping</title>
       <link>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-1/</link>
       <pubDate>Wed, 01 Feb 2023 10:58:08 -0400</pubDate>
       
       <guid>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-1/</guid>
-      <description>Project summary: Predicted London property prices using only scraped data with a xgb boosted regressor. Scraped data for around 12,000 properties from the website right move using beautiful soup. Cleaned the Data extracting many features from text using regular expressions. Determined the property GPS coordinates using google maps api. Feature engineered the distance to Picadilly Circus. Extracted text containing total property area using property plan images. Finally cross validated several regression models.</description>
+      <description>Project summary: Predicted London property prices using only scraped data with a xgb boosted regressor. Scraped data for around 22,000 properties from the website right move using beautiful soup. Cleaned the Data extracting many features from text using regular expressions. Determined the property GPS coordinates using google maps api. Feature engineered the distance to Picadilly Circus. Extracted text containing total property area using property plan images. Trained several regression models including a xgboost regressor and neural networks.</description>
     </item>
     
     <item>
-      <title>Algorithmic trading project</title>
-      <link>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-3/</link>
+      <title>Algo-trading with BERT Bitcoin tweet sentiment</title>
+      <link>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-5/</link>
       <pubDate>Mon, 30 Jan 2023 11:00:59 -0400</pubDate>
       
-      <guid>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-3/</guid>
-      <description></description>
+      <guid>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-5/</guid>
+      <description>Fined-tuned a hugging face BERT model on a financial news sentiment dataset from kaggle. Applied the fine-tuned model to bitcoin tweets from 2017 to 2019. Averaged tweet sentiment for each day. Utilized the Binanace API to get the corresponding daily pricing and volume information for Bitcoin. Back-tested a trading strategy in which one buys bitcoin when the average sentiment is above 0.4 and go neutral when bitcoin sentiment is below 0.</description>
     </item>
     
     <item>
-      <title>Language translation project</title>
+      <title>Binfit - a framework for unbinned likelihood fits</title>
+      <link>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-6/</link>
+      <pubDate>Mon, 30 Jan 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-6/</guid>
+      <description>Developed a object-orientated framework in python for performing maximum likelihood fits with sytematics handled via nuisance parameters. Optimized the code for speed ensuring that the computation of the maximum likelihood is vectorized. Optimization possible with several backends including iminuit and scipy optimizers. Framework was utilised by around 5 publications of the Belle II and Belle experiments. Below is an example of a fit produced by me for a conference result using the package: Code for the python package is available on github at: https://github.</description>
+    </item>
+    
+    <item>
+      <title>Particle decay classification with BDTs and graphs</title>
       <link>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-4/</link>
       <pubDate>Mon, 30 Jan 2023 11:00:59 -0400</pubDate>
       
       <guid>https://willsutcliffe.github.io/WilliamPortfolio/post/chapter-4/</guid>
-      <description></description>
+      <description>Performing research to classify correctly reconstructed particle decay graphs with a graph attention networks. Utilized a training dataset of 500k reconstructed B meson decays and 30k for validation. Features included key physical qnd kinematic quantities like charged, energy, particle type, momenta and particle mass. Trained a graph attention network with pytorch geometric, which obtained around 97% accuracy and a AUC of 0.995. This outperformed an approach using around 60 BDTs with highly engineered features.</description>
     </item>
     
   </channel>
